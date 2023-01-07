@@ -1,0 +1,9 @@
+Plaka , Marka , Yil , Model , Vites , Yakit Turu , Koltuk Sayisi , Yakit Tuketimi , Govde Tipi , KapiSayisi , Sigara , Fiyat , Kiralanma Sayisi , Teslim Verme Tarihi , Teslim Alma Tarihi
+06GUL11/MERCEDES/2020/A180/OTOMATIK/BENZIN/5/11.2/Hatchback/5/icilemez/249/0/ /
+06GUL12/ BMW / 2014 / 118 / MANUEL / BENZIN / 5 / 10.8 / Hatchback / 5 / icilemez /179/ 0 / /
+06GUL13/ AUDI / 2018 / Q2 / OTOMATIK / DIZEL / 5 / 6.3 / SUV / 5 / icilemez /299/ 0 / /
+06GUL14/ VOLSWAGEN / 2017 / POLO / OTOMATIK / BENZIN / 5 / 8.7 / Hatchback / 5 / icilemez /159/ 0 / /
+06GUL15/ OPEL / 2013 / CORSA / OTOMATIK / BENZIN / 5 / 9.2 / Hatchback / 5 / icilebilir /119/ 0 / /
+06GUL16/ DACIA / 2017 / DUSTER / MANUEL / DIZEL / 5 / 5.8 / SUV / 5 / icilebilir /179/ 0 / /
+06GUL17/ SEAT / 2020 / LEON / OTOMATIK / DIZEL / 5 / 6.2 / Hatchback / 5 / icilebilir /209/ 0 / /
+06GUL18/ SKODA / 2020 / KAROQ / OTOMATİK / BENZIN / 5 / 10.2 / SUV / 5 / icilemez /259/ 0 / /
